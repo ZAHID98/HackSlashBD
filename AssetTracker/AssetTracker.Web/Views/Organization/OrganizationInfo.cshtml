@@ -1,0 +1,43 @@
+﻿@model AssetTracker.Core.Models.Organization
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>OranizationInfo</title>
+</head>
+<body>
+    <div>
+        <h1>Organization Information: </h1>
+        <p>Name: @Model.Name</p>
+        <p>Code: @Model.Code</p>
+        <p>Location: @Model.Location</p>
+
+        @if (Model.OrganizationBranches != null && Model.OrganizationBranches.Any())
+        {
+            <h1>Organization Branch List</h1>
+            <table>
+                <tr>
+                    <th>Name</th>
+                    <th>Short Name</th>
+                </tr>
+                @foreach (var branch in Model.OrganizationBranches)
+                {
+                    <tr>
+                        <td>@branch.Name</td>
+                        <td>@branch.ShortName</td>
+                    </tr>
+                }
+
+
+
+            </table>
+        }
+
+    </div>
+</body>
+</html>

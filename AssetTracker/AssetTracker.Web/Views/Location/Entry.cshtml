@@ -1,0 +1,62 @@
+﻿@model AssetTracker.Core.Models.Location
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <title>Entry</title>
+</head>
+<body>
+    <div class="container">
+       @using (Html.BeginForm("Entry", "Location"))
+{
+    <h1>
+        Organization Branch Entry
+
+    </h1>
+    <p>
+        Organization: @Html.DropDownListFor(c => c.OrganizationId, new SelectList(ViewBag.Organizations, "Id", "Name"))
+    </p>
+           <p>
+        Organization Branch: @Html.DropDownListFor(c => c.BranchId, new SelectList(ViewBag.OrganizationBranchs, "Id", "Name"))
+    </p>
+    <p>
+        Name: @Html.TextBoxFor(c => c.Name)
+    </p>
+    <p>
+        Short Name: @Html.TextBoxFor(c => c.ShortName)
+    </p>
+    <input type="submit" value="Save" />
+}
+
+
+        @*<div>
+            @if (ViewBag.SuccessMessage != null)
+            {
+                <h1> @ViewBag.SuccessMessage</h1>
+            }
+
+            @if (ViewBag.ErrorMessage != null)
+            {
+                <h3>@ViewBag.ErrorMessage</h3>
+            }
+
+        </div>*@
+
+    </div>
+    <script src="~/Scripts/jquery-1.8.0.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+</body>
+
+</html>

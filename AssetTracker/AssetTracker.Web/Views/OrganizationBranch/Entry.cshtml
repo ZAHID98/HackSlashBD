@@ -1,0 +1,34 @@
+﻿@model AssetTracker.Core.Models.OrganizationBranch
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+<div>
+    @using (Html.BeginForm("Entry","OrganizationBranch"))
+    {
+        <h1>
+            Organization Branch Entry
+
+        </h1>
+        <p>
+            Organization: @Html.DropDownListFor(c => c.OrganizationId, new SelectList(ViewBag.Organizations, "Id", "Name"))
+        </p>
+        <p>
+            Name: @Html.TextBoxFor(c => c.Name)
+        </p>
+        <p>
+            Short Name: @Html.TextBoxFor(c => c.ShortName)
+        </p>
+        <input type="submit" value="Save"/>
+    }
+</div>
+</body>
+</html>

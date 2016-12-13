@@ -1,0 +1,80 @@
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 04\EntityFrameworkSampleApp\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll.config
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 04\EntityFrameworkSampleApp\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 04\EntityFrameworkSampleApp\AssetTracker.Core\bin\Debug\AssetTracker.Core.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 04\EntityFrameworkSampleApp\AssetTracker.Core\bin\Debug\EntityFramework.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 04\EntityFrameworkSampleApp\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 04\EntityFrameworkSampleApp\AssetTracker.Core\bin\Debug\EntityFramework.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 04\EntityFrameworkSampleApp\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 04\EntityFrameworkSampleApp\AssetTracker.Core\obj\Debug\AssetTracker.Core.csprojResolveAssemblyReference.cache
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 04\EntityFrameworkSampleApp\AssetTracker.Core\obj\Debug\AssetTracker.Core.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 04\EntityFrameworkSampleApp\AssetTracker.Core\obj\Debug\AssetTracker.Core.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll.config
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csprojResolveAssemblyReference.cache
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll.config
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csprojResolveAssemblyReference.cache
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll.config
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csprojResolveAssemblyReference.cache
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.InitialCreate.resources
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csproj.GenerateResource.Cache
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.OrganizationChanges.resources
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll.config
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.pdb
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.xml
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csprojResolveAssemblyReference.cache
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.InitialCreate.resources
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.OrganizationChanges.resources
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csproj.GenerateResource.Cache
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.pdb
+F:\Prof MVC\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.InitialCreate.resources
+F:\Prof MVC\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.OrganizationChanges.resources
+F:\Prof MVC\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csproj.GenerateResource.Cache
+F:\Prof MVC\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll.config
+F:\Prof MVC\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.pdb
+F:\Prof MVC\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.xml
+F:\Prof MVC\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.xml
+F:\Prof MVC\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.pdb
+D:\My Development\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll.config
+D:\My Development\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.dll
+D:\My Development\AssetTracker\AssetTracker.Core\bin\Debug\AssetTracker.Core.pdb
+D:\My Development\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.dll
+D:\My Development\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\My Development\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.xml
+D:\My Development\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.InitialCreate.resources
+D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.OrganizationChanges.resources
+D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csproj.GenerateResource.Cache
+D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.dll
+D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.pdb

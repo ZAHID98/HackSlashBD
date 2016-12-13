@@ -1,0 +1,144 @@
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll.config
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.csprojResolveAssemblyReference.cache
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\EntityFramework.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\EntityFramework.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 05\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll.config
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\EntityFramework.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\EntityFramework.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.csprojResolveAssemblyReference.cache
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 06\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll.config
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\EntityFramework.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.pdb
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\EntityFramework.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.xml
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.csprojResolveAssemblyReference.cache
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.dll
+D:\Training\My Courses\BITM Courses\Professional ASP.NET MVC\Batch 02\Day 07\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.pdb
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll.config
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.pdb
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\EntityFramework.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.pdb
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\EntityFramework.xml
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.xml
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.xml
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.xml
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.xml
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.xml
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.xml
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.csprojResolveAssemblyReference.cache
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.dll
+D:\Development Training\Day 07\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.pdb
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll.config
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.pdb
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\EntityFramework.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.pdb
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\EntityFramework.xml
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.xml
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.xml
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.xml
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.xml
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.xml
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.xml
+F:\Prof MVC\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.xml
+F:\Prof MVC\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.csprojResolveAssemblyReference.cache
+F:\Prof MVC\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.dll
+F:\Prof MVC\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.pdb
+D:\My Development\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll.config
+D:\My Development\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll
+D:\My Development\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.pdb
+D:\My Development\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.dll
+D:\My Development\AssetTracker\AssetTracker.Web\bin\EntityFramework.dll
+D:\My Development\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.dll
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.dll
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.dll
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.dll
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.dll
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.dll
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.dll
+D:\My Development\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.pdb
+D:\My Development\AssetTracker\AssetTracker.Web\bin\EntityFramework.xml
+D:\My Development\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.xml
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.xml
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.xml
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.xml
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.xml
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.xml
+D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.xml
+D:\My Development\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.csprojResolveAssemblyReference.cache
+D:\My Development\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.dll
+D:\My Development\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.pdb
