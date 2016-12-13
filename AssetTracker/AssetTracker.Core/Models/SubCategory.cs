@@ -13,9 +13,10 @@ namespace AssetTracker.Core.Models
         public int CategoryId { get; set; }
         public string Code { get; set; }
         public string Description { get; set; }
-        public GeneralCategory GeneralCategory { get; set; }
-        public  Category Category { get; set; }
-        public virtual DetailCategory DetailCategory { get; set; }
+        public virtual GeneralCategory GeneralCategory { get; set; }
+        public virtual Category Category { get; set; }
+
+        //public virtual DetailCategory DetailCategory { get; set; }
 
     }
 }

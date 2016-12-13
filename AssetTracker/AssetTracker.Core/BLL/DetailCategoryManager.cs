@@ -13,7 +13,7 @@ namespace AssetTracker.Core.BLL
         DetailCategoryRepository repository = new DetailCategoryRepository();
         public bool Add(DetailCategory detailCategory)
         {
-            if (detailCategory.GeneralCategory== null)
+            if (detailCategory.GeneralCategory == null)
             {
                 return false;
             }
@@ -25,9 +25,9 @@ namespace AssetTracker.Core.BLL
             {
                 return false;
             }
-            if (detailCategory.GeneralCategory== null)
+            if (detailCategory.GeneralCategory == null)
             {
-                 return false;
+                return false;
             }
 
             if (detailCategory.Code.Length != 2)

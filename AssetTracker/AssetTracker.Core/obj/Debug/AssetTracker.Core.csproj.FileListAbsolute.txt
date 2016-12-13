@@ -73,8 +73,8 @@ D:\My Development\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.dll
 D:\My Development\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.dll
 D:\My Development\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.xml
 D:\My Development\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.xml
-D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.InitialCreate.resources
-D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.OrganizationChanges.resources
-D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csproj.GenerateResource.Cache
 D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.dll
 D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.pdb
+D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csprojResolveAssemblyReference.cache
+D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.v00.resources
+D:\My Development\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csproj.GenerateResource.Cache

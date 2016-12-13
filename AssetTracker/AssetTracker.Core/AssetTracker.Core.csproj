@@ -70,13 +70,9 @@
     <Compile Include="DAL\OrganizationRepository.cs" />
     <Compile Include="DAL\SubCategoryRepository.cs" />
     <Compile Include="DAL\VendorRepository.cs" />
-    <Compile Include="Migrations\201611261517396_InitialCreate.cs" />
-    <Compile Include="Migrations\201611261517396_InitialCreate.Designer.cs">
-      <DependentUpon>201611261517396_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201612101507475_OrganizationChanges.cs" />
-    <Compile Include="Migrations\201612101507475_OrganizationChanges.Designer.cs">
-      <DependentUpon>201612101507475_OrganizationChanges.cs</DependentUpon>
+    <Compile Include="Migrations\201612130738437_v00.cs" />
+    <Compile Include="Migrations\201612130738437_v00.Designer.cs">
+      <DependentUpon>201612130738437_v00.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Category.cs" />
@@ -94,16 +90,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201611261517396_InitialCreate.resx">
-      <DependentUpon>201611261517396_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201612101507475_OrganizationChanges.resx">
-      <DependentUpon>201612101507475_OrganizationChanges.cs</DependentUpon>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201612130738437_v00.resx">
+      <DependentUpon>201612130738437_v00.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

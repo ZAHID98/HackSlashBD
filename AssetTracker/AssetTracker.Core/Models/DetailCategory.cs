@@ -7,19 +7,21 @@ using System.Threading.Tasks;
 
 namespace AssetTracker.Core.Models
 {
-  public class DetailCategory
+    public class DetailCategory
     {
-      public int Id { get; set; }
-      [Required]
-      public int GeneralCategoryId  { get; set; }
+        public int Id { get; set; }
+
+        public int GeneralCategoryId { get; set; }
+
+        public int CategoryId { get; set; }
+
+        public int SubCategoryId { get; set; }
         [Required]
-      public int CategoryId { get; set; }
-      [Required]
-      public int SubCategoryId { get; set; }
-      [Required]
-      public string Code { get; set; }
-      public GeneralCategory GeneralCategory { get; set; }
-      public Category Category { get; set; }
-      public SubCategory SubCategory { get; set; }
+        public string Code { get; set; }
+
+
+        public virtual GeneralCategory GeneralCategory { get; set; }
+        public virtual Category Category { get; set; }
+        public virtual SubCategory SubCategory { get; set; }
     }
 }

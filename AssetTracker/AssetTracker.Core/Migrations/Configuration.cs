@@ -10,7 +10,6 @@ namespace AssetTracker.Core.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
-            ContextKey = "AssetTracker.Core.Context.AssetDBContext";
         }
 
         protected override void Seed(AssetTracker.Core.Context.AssetDBContext context)
