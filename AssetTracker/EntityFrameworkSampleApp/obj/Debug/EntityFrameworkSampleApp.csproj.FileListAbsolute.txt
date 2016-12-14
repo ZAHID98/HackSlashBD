@@ -58,3 +58,15 @@ D:\My Development\AssetTracker\EntityFrameworkSampleApp\bin\Debug\EntityFramewor
 D:\My Development\AssetTracker\EntityFrameworkSampleApp\obj\Debug\EntityFrameworkSampleApp.csprojResolveAssemblyReference.cache
 D:\My Development\AssetTracker\EntityFrameworkSampleApp\obj\Debug\EntityFrameworkSampleApp.exe
 D:\My Development\AssetTracker\EntityFrameworkSampleApp\obj\Debug\EntityFrameworkSampleApp.pdb
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\bin\Debug\EntityFrameworkSampleApp.exe.config
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\bin\Debug\EntityFrameworkSampleApp.exe
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\bin\Debug\EntityFrameworkSampleApp.pdb
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\bin\Debug\AssetTracker.Core.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\bin\Debug\EntityFramework.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\bin\Debug\EntityFramework.SqlServer.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\bin\Debug\AssetTracker.Core.pdb
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\bin\Debug\EntityFramework.xml
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\bin\Debug\EntityFramework.SqlServer.xml
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\obj\Debug\EntityFrameworkSampleApp.csprojResolveAssemblyReference.cache
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\obj\Debug\EntityFrameworkSampleApp.exe
+F:\Asset_Tracker\HackSlashBD\AssetTracker\EntityFrameworkSampleApp\obj\Debug\EntityFrameworkSampleApp.pdb

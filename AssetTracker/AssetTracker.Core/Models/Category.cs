@@ -17,7 +17,7 @@ namespace AssetTracker.Core.Models
         public string Code { get; set; }
         public string Description { get; set; }
        
-        public virtual  GeneralCategory GeneralCategory { get; set; }
+        public  GeneralCategory GeneralCategory { get; set; }
         public virtual ICollection<SubCategory> SubCategories { get; set; }
         public virtual ICollection<DetailCategory> DetailsCategory { get; set; }
 

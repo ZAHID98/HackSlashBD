@@ -142,3 +142,27 @@ D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.xml
 D:\My Development\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.csprojResolveAssemblyReference.cache
 D:\My Development\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.dll
 D:\My Development\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.pdb
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll.config
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.pdb
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\EntityFramework.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.pdb
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\EntityFramework.xml
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.xml
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.xml
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.xml
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Deployment.xml
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.xml
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Helpers.xml
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.xml
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.csprojResolveAssemblyReference.cache
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.dll
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.pdb
