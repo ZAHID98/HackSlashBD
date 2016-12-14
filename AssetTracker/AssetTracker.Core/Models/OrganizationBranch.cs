@@ -13,6 +13,7 @@ namespace AssetTracker.Core.Models
         public string ShortName { get; set; }
 
         public int OrganizationId { get; set; }
+        public string AreaCode { get; set; }
 
         public Organization Organization { get; set; }
     }
