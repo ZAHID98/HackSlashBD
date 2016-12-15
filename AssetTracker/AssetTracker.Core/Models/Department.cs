@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Globalization;
 using System.Linq;
 using System.Text;
@@ -12,10 +14,13 @@ namespace AssetTracker.Core.Models
     {
         public int Id{ get; set; }
         public string Name { get; set; }
-        public int OrganizationId { get; set; }
+       [DisplayName ("Organization Branch")]
+       [ForeignKey("OrganizationBranch")]
         public int OrganizationBranchId { get; set; }
-        public virtual ICollection<Employee>  Employee { get; set; }
-        public virtual OrganizationBranch OrganizationBranch { get; set; }
-        public virtual Organization Organization { get; set; }
+       public virtual OrganizationBranch OrganizationBranch { get; set; }
+
+        public virtual ICollection<Employee>  Employees { get; set; }
+        
+        
     }
 }

@@ -15,15 +15,12 @@ namespace AssetTracker.Core.BLL
 
             public bool Add(Department department)
             {
-                if (department.Organization == null)
-                {
-                    return false;
-                }
+              
                 if (department.OrganizationBranch == null)
                 {
                     return false;
                 }
-                if ((department.Name == null) && (department.Name.Length <= 11))
+                if (department.Name != null && ((department.Name == null) && (department.Name.Length <= 11)))
                 {
                     return false;
                 }

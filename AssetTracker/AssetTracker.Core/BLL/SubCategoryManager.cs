@@ -14,15 +14,12 @@ namespace AssetTracker.Core.BLL
         SubCategoryRepository repository=new SubCategoryRepository();
         public bool Add(SubCategory subCategory)
         {
-            if (subCategory.GeneralCategory ==null)
-            {
-                return false;
-            }
+           
             if (subCategory.Category == null) 
             {
                 return false;
             }
-            if ((subCategory.Code == null) && (subCategory.Code.Length <= 2))
+            if (subCategory.Code != null && ((subCategory.Code == null) && (subCategory.Code.Length <= 2)))
             {
                 return false;
             }

@@ -85,8 +85,6 @@ F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Core\bin\Debug\EntityFram
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.dll
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.xml
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Core\bin\Debug\EntityFramework.SqlServer.xml
-F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.Migrations.v00.resources
-F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csproj.GenerateResource.Cache
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.dll
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.pdb
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Core\obj\Debug\AssetTracker.Core.csprojResolveAssemblyReference.cache

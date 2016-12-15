@@ -13,22 +13,13 @@ namespace AssetTracker.Core.BLL
         DetailCategoryRepository repository = new DetailCategoryRepository();
         public bool Add(DetailCategory detailCategory)
         {
-            if (detailCategory.GeneralCategory == null)
-            {
-                return false;
-            }
-            if (detailCategory.Category == null)
-            {
-                return false;
-            }
+            
+           
             if (detailCategory.SubCategory == null)
             {
                 return false;
             }
-            if (detailCategory.GeneralCategory == null)
-            {
-                return false;
-            }
+           
 
             if (detailCategory.Code.Length != 2)
             {

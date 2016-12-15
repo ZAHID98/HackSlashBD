@@ -14,10 +14,7 @@ namespace AssetTracker.Core.BLL
        EmployeeRepositroy repository = new EmployeeRepositroy();
        public bool Add(Employee employee)
        {
-           if (employee.Organization == null)
-           {
-               return false;
-           }
+          
            if (employee.OrganizationBranch == null)
            {
                return false;

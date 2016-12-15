@@ -15,10 +15,7 @@ namespace AssetTracker.Core.BLL
         AssetLocationRepository repository=new AssetLocationRepository();
         public bool Add(Location location)
         {
-            if (location.Organization == null)
-            {
-                return false;
-            }
+            
             if (location .OrganizationBranch==null)
             {
                 return false;

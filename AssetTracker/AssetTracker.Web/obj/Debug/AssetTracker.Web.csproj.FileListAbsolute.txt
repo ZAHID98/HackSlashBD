@@ -142,6 +142,7 @@ D:\My Development\AssetTracker\AssetTracker.Web\bin\System.Web.Mvc.xml
 D:\My Development\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.csprojResolveAssemblyReference.cache
 D:\My Development\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.dll
 D:\My Development\AssetTracker\AssetTracker.Web\obj\Debug\AssetTracker.Web.pdb
+F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\EntityFramework.xml
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll.config
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.dll
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\AssetTracker.Web.pdb
@@ -155,7 +156,6 @@ F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Webpag
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.dll
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.Razor.dll
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\AssetTracker.Core.pdb
-F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\EntityFramework.xml
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\EntityFramework.SqlServer.xml
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Razor.xml
 F:\Asset_Tracker\HackSlashBD\AssetTracker\AssetTracker.Web\bin\System.Web.Webpages.xml
