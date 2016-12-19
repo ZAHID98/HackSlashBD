@@ -1,4 +1,5 @@
 ﻿
+using System.Linq;
 using System.Web.Mvc;
 using AssetTracker.Core.BLL;
 using AssetTracker.Core.Context;
@@ -9,6 +10,8 @@ namespace AssetTracker.Web.Controllers
     public class OrganizationBranchController : Controller
     {
         OrganizationManager organizationManager = new OrganizationManager();
+        OrganizationBranchManager _branch = new OrganizationBranchManager();
+
         public ActionResult Entry(int? id)
         {
             var organizations = organizationManager.GetAll();
@@ -30,6 +33,20 @@ namespace AssetTracker.Web.Controllers
         public ActionResult Edit()
         {
             return View();
+        }
+
+        public JsonResult GetByOrganizationId(int? organizationId)
+        {
+
+            var branches = _branch.GetByOrganizationId(organizationId).Select(c => new
+            {
+                c.Id,
+                c.Name,
+                c.ShortName,
+                c.OrganizationId
+            });
+
+            return Json(branches, JsonRequestBehavior.AllowGet);
         }
     }
 }

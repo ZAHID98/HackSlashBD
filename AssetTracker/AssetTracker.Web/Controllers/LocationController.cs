@@ -10,34 +10,27 @@ using AssetTracker.Core.Models;
 namespace AssetTracker.Web.Controllers
 {
     public class LocationController : Controller
+
     {
+        public  OrganizationManager _organization = new OrganizationManager();
+        public OrganizationBranchManager _Branch=new OrganizationBranchManager();
+
         LocationManager locationManager=new LocationManager();
         public ActionResult Entry()
         {
+
+            var organizations = _organization.GetAll();
+            ViewBag.Organizations = organizations;
+
             return View();
         }
     [HttpPost]
         public ActionResult Entry(Location location)
     {
-        AssetDBContext context = new AssetDBContext();
 
-        context.Locations.Add(location);
-        int rowAffected = context.SaveChanges();
+     
 
-        return RedirectToAction("Entry");
-
-        //bool isSaved = locationManager.Add(location);
-        //    if (isSaved)
-        //    {
-        //        ViewBag.SuccessMessage = "Saved Successfully!";
-        //    }
-        //    else
-        //    {
-        //        ViewBag.ErrorMessage = "Save Failed!";
-        //    }
-
-
-        //    return View();
+        return View();
         }
 
 	}

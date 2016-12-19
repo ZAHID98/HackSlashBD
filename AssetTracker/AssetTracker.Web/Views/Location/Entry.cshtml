@@ -16,47 +16,82 @@
     <title>Entry</title>
 </head>
 <body>
-    <div class="container">
-       @using (Html.BeginForm("Entry", "Location"))
-{
-    <h1>
-        Organization Branch Entry
+<div class="container">
+    @using (Html.BeginForm("Entry", "Location"))
+    {
+        <h1>
+            Organization Branch Entry
 
-    </h1>
-    <p>
-        Organization: @Html.DropDownListFor(c => c.OrganizationId, new SelectList(ViewBag.Organizations, "Id", "Name"))
-    </p>
-           <p>
-        Organization Branch: @Html.DropDownListFor(c => c.BranchId, new SelectList(ViewBag.OrganizationBranchs, "Id", "Name"))
-    </p>
-    <p>
-        Name: @Html.TextBoxFor(c => c.Name)
-    </p>
-    <p>
-        Short Name: @Html.TextBoxFor(c => c.ShortName)
-    </p>
-    <input type="submit" value="Save" />
-}
+        </h1>
+        <p>
+            Organization: @Html.DropDownList("OrganizationId", new SelectList(ViewBag.Organizations, "Id", "Name"))
+        </p>
+        <p>
+            Organization Branch: @Html.DropDownListFor(c => c.OrganizationBranchId, new SelectList(ViewBag.OrganizationBranchs, "Id", "Name"))
+        </p>
+        <p>
+            Name: @Html.TextBoxFor(c => c.Name)
+        </p>
+        <p>
+            Short Name: @Html.TextBoxFor(c => c.ShortName)
+        </p>
+        <input type="submit" value="Save" />
+    }
 
 
-        @*<div>
-            @if (ViewBag.SuccessMessage != null)
-            {
-                <h1> @ViewBag.SuccessMessage</h1>
-            }
+    @*<div>
+                @if (ViewBag.SuccessMessage != null)
+                {
+                    <h1> @ViewBag.SuccessMessage</h1>
+                }
 
-            @if (ViewBag.ErrorMessage != null)
-            {
-                <h3>@ViewBag.ErrorMessage</h3>
-            }
+                @if (ViewBag.ErrorMessage != null)
+                {
+                    <h3>@ViewBag.ErrorMessage</h3>
+                }
 
-        </div>*@
+            </div>*@
 
-    </div>
-    <script src="~/Scripts/jquery-1.8.0.js"></script>
-    <script src="~/Scripts/jquery.validate.js"></script>
+</div>
+    </body>
+    </html>
+<script src="~/Scripts/jquery-1.8.0.js"></script>
+    <script type="text/javascript">
 
-    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
-</body>
+        $("#OrganizationId").change(function () {
+            //load relevant branches of organization
+            var organizationId = $("#OrganizationId").val();
 
-</html>
+            var jsonData = { organizationId: organizationId };
+
+            $.ajax(
+                {
+                    url: "/OrganizationBranch/GetByOrganizationId",
+                    data: { organizationId: organizationId },
+                    contentType: "application/json",
+                    method: "POST",
+                    success: function (response) {
+
+                        var branchList = response;
+                        $('#BranchId').empty();
+                        var blankOption = "<option value=''> SELECT...</option>";
+
+                        $('#BranchId').append(blankOption);
+                        $.each(branchList, function (key, value) {
+
+                            var option = "<option value='" + value.Id + "'>" + value.Name + "</option>";
+                            $('#BranchId').append(option);
+
+                        });
+
+                    },
+                    error: function (response) {
+
+                    }
+                });
+
+
+        });
+
+
+    </script>

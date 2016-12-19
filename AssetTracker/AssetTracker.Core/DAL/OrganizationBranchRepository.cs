@@ -42,7 +42,14 @@ namespace AssetTracker.Core.DAL
             var organizationBranch = db.OrganizationBranches.Include(c => c.Organization)
                 .FirstOrDefault(c => c.Id == id);
             return organizationBranch;
+           
 
+        }
+
+        public List<OrganizationBranch> GetByOrganizationId(int OrganizationId)
+        {
+            AssetDBContext db=new AssetDBContext();
+            return db.OrganizationBranches.Where(c => c.OrganizationId == OrganizationId).ToList();
         }
     }
 }

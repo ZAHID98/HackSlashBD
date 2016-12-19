@@ -1,0 +1,30 @@
+﻿@model AssetTracker.Core.Models.GeneralCategory
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>General Category Setup</title>
+</head>
+<body>
+<div class="container">
+    @using (Html.BeginForm("Entry", "GeneralCategory"))
+    {
+        <h1>General Category Entry</h1>
+        <p>
+            Name:@Html.TextBoxFor(c=>c.Name)
+
+        </p>
+        <p>
+            Code:@Html.TextBoxFor(c=>c.Code)
+
+        </p>
+        <input type="submit"value="Save"/>
+    }
+</div>
+</body>
+</html>

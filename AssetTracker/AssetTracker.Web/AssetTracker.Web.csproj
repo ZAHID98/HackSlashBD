@@ -103,6 +103,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CategoryController.cs" />
+    <Compile Include="Controllers\GeneralCategoryController.cs" />
     <Compile Include="Controllers\LocationController.cs" />
     <Compile Include="Controllers\OrganizationBranchController.cs" />
     <Compile Include="Controllers\OrganizationController.cs" />
@@ -118,6 +120,8 @@
     <Content Include="Views\Organization\OrganizationInfo.cshtml" />
     <Content Include="Views\Location\Entry.cshtml" />
     <Content Include="Views\OrganizationBranch\Edit.cshtml" />
+    <Content Include="Views\GeneralCategory\Entry.cshtml" />
+    <Content Include="Views\Category\Entry.cshtml" />
     <None Include="Views\OrganizationBranch\Entry.cshtml" />
     <Content Include="Views\Organization\ShowAll.cshtml" />
     <None Include="Web.Debug.config">

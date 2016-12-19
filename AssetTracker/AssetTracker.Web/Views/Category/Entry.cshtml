@@ -1,0 +1,31 @@
+﻿@model AssetTracker.Core.Models.Category
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Entry</title>
+</head>
+<body>
+<div class="container">
+    @using (Html.BeginForm("Entry", "Category"))
+    {
+    <h1>
+           Category Entry
+
+     </h1>
+        @Html.DropDownListFor(c => c.GeneralCategoryId, new SelectList(ViewBag.Categories, "Id", "Name"))
+        @Html.TextBoxFor(c=>c.Name)
+        @Html.TextBoxFor(c=>c.Code)
+        @Html.TextBoxFor(c=>c.Description)
+        <input type="submit" value="Save"/>
+    }
+      
+   
+</div>
+</body>
+</html>

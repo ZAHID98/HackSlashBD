@@ -40,5 +40,20 @@ namespace AssetTracker.Core.BLL
 
             return organizationBranch;
         }
+        public List<OrganizationBranch> GetByOrganizationId(int? organizationId)
+        {
+
+            if (organizationId == null)
+            {
+                return null;
+            }
+
+            List<OrganizationBranch> organizationBranches;
+
+            organizationBranches = OrganizationBranchRepository.GetByOrganizationId((int)organizationId);
+
+            return organizationBranches;
+
+        }
     }
 }

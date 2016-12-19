@@ -8,7 +8,7 @@ using AssetTracker.Core.Models;
 
 namespace AssetTracker.Core.BLL
 {
-    class GeneralCategoryManager
+   public class GeneralCategoryManager
     {
         GeneralCategoryRepository repository=new GeneralCategoryRepository();
         public bool Add(GeneralCategory generalCategory)

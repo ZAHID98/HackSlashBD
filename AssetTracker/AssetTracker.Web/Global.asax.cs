@@ -18,7 +18,7 @@ namespace AssetTracker.Web
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             //BundleConfig.RegisterBundles(BundleTable.Bundles);
 
-            Database.SetInitializer<AssetDBContext>(new DropCreateDatabaseIfModelChanges<AssetDBContext>());
+           // Database.SetInitializer<AssetDBContext>(new DropCreateDatabaseIfModelChanges<AssetDBContext>());
         }
     }
 }
